@@ -1,29 +1,22 @@
-# 🧠 Network Protocol Simulation: ARP & RARP using Python (TCP Sockets)
+#  Network Protocol Simulation: ARP & RARP using Python (TCP Sockets)
 
 
-
-## 📌 AIM
+##  AIM
 
 To simulate the **Address Resolution Protocol (ARP)** and **Reverse Address Resolution Protocol (RARP)** using Python and TCP socket programming.
 
 
 
-## ⚙️ REQUIREMENTS
+##  REQUIREMENTS
 
 - Python 3.x
 - Basic understanding of socket programming
 - Two terminal windows (or client/server setup)
 
 ---
+##  ALGORITHMS
 
-## 👨‍💻 DEVELOPED BY
-
-#### Name: **Kabelan G K** 
-#### Reg No: **212224110027**
-
-## 🔁 ALGORITHMS
-
-### ✅ ARP (Address Resolution Protocol)
+###  ARP (Address Resolution Protocol)
 
 **Client:**
 1. Start the client script.
@@ -40,7 +33,7 @@ To simulate the **Address Resolution Protocol (ARP)** and **Reverse Address Reso
 
 
 
-### 🔁 RARP (Reverse Address Resolution Protocol)
+###  RARP (Reverse Address Resolution Protocol)
 
 **Client:**
 1. Start the client script.
@@ -57,9 +50,9 @@ To simulate the **Address Resolution Protocol (ARP)** and **Reverse Address Reso
 
 
 
-## 💻 PROGRAMS
+##  PROGRAMS
 
-### 🔗 ARP Server (`arp_server.py`)
+###  ARP Server (`arp_server.py`)
 
 ```python
 import socket
@@ -84,7 +77,7 @@ while True:
 
 
 
-### 🔗 ARP Client (`arp_client.py`)
+###  ARP Client (`arp_client.py`)
 
 ```python
 import socket
@@ -100,7 +93,7 @@ while True:
 
 
 
-### 🔁 RARP Server (`rarp_server.py`)
+###  RARP Server (`rarp_server.py`)
 
 ```python
 import socket
@@ -125,7 +118,7 @@ while True:
 
 
 
-### 🔁 RARP Client (`rarp_client.py`)
+###  RARP Client (`rarp_client.py`)
 
 ```python
 import socket
@@ -141,7 +134,7 @@ while True:
 
 
 
-## ✅ SAMPLE OUTPUT
+##  SAMPLE OUTPUT
 
 ### ARP
 
